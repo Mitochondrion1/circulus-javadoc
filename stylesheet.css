@@ -286,7 +286,7 @@ dl.notes > dt {
 dl.notes > dd {
     margin:5px 10px 10px 0;
     font-size:14px;
-    font-family:"Arial";
+    font-family:'Arial';
 }
 dl.name-value > dt {
     margin-left:1px;
@@ -499,7 +499,7 @@ div.table-tabs > button.table-tab {
 }
 div.block {
     font-size:14px;
-    font-family:"Arial";
+    font-family:'Arial';
 }
 .col-last div {
     padding-top:0;
