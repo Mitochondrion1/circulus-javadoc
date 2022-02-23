@@ -1,2 +1,6 @@
-com.game.main
-com.game.main.database
+com.circulus.activity
+com.circulus.database
+com.circulus.dialog
+com.circulus.gameobject
+com.circulus.playtime
+com.circulus.utility
